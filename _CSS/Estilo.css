@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+
+
+
+
+body { 
+	background-color: rgb(140,190,230);
+	color: white;
+	}
+	p{
+	text-align: justify;
+	text-indent: 50px;
+	}
+	.Cabeçalho{
+
+	background-color: rgb(70,70,120);
+	}
+figure.foto-legenda{
+border: 8px solid green;}
